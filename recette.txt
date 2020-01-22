@@ -8,3 +8,4 @@ Ingrédients:
     - pâtes Barilla "penne"
     - crème fraiche
     - oeuf
+    - oignons
