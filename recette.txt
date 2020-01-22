@@ -9,3 +9,4 @@ Ingrédients:
     - crème fraiche
     - oeuf
     - oignons
+    - lardons
