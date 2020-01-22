@@ -3,5 +3,8 @@ Livre des recettes
 
 1. Recette Penne à la Carbonara
 
+Ingrédients:
+------------
     - pâtes Barilla "penne"
     - crème fraiche
+    - oeuf
